@@ -2,7 +2,7 @@
  <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>nugsnet6</RootNamespace>
+    <RootNamespace>planner</RootNamespace>
     <InvariantGlobalization>true</InvariantGlobalization>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
